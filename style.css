@@ -283,6 +283,12 @@
 
 }
     
+.leftbage p {
+    font-size: 0.7rem;
+
+}
+
+
 .rightbage {
     height: 35px;
     width: 35px;
@@ -300,3 +306,31 @@
     font-size: 1.2rem;
     color: #002f34;
 }
+
+/* ====================reguler ads======================= */
+
+
+.reguler_leftbage {
+    height: 15px;
+    width: 80px;
+    background-color: #ffce32 transparent;
+    display: flex;
+    align-items: center;
+    padding: 0px 5px 0px 5px;
+    gap:8px;
+    margin-left: -2px;
+    cursor: default;
+}
+.reguler_leftbage i {
+    font-size: 0.5rem;
+
+}
+.reguler_leftbage p {
+    font-size: 0.7rem;
+
+}
+.regulerpostinfo_section{
+    height: 80px;
+    border-left:  5px solid #ffffff;
+}
+
