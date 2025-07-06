@@ -444,10 +444,74 @@
     color: #002F34;
 }
 
+/* ===========================footer=============== */
 
-/* .spase{
-    height: 200px;
-} */
+.footinfo{
+    height: 140px;
+    background-color: #EBEEEF;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.f_para ul{
+    list-style: none;
+    color: #002f34a3;
+    font-size: 0.8rem;
+    padding-top: 10px;
+}
+
+
+.f_para h6{
+    color: #002F34;
+    font-size: 0.8rem;
+}
+
+
+
+.footapp{
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+
+.footapp img{
+    height: 25px;
+    width: 94px;
+}
+
+
+
+/* =================== */
+
+
+.f_sectiontwo{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 750px;
+    font-size: 0.8rem;
+    background-color: #002F34;
+    color: #FFE5BE;
+}
+
+.f2para1{
+    display: flex;
+    
+}
+.f2para1 a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+/* ========================== */
 
 
 
